@@ -1,0 +1,16 @@
+{
+    "Name": "Temporal Lobe Epilepsy - UNAM",
+    "BIDSVersion": "1.0.0",
+    "Authors": [
+        "Raúl Rodríguez-Cruces",
+        "Vicente Camacho-Téllez",
+        "Alfonso Fajardo",
+        "Luis Concha"
+    ],
+    "License": "CC0",
+    "HowToAcknowledge": "Fajardo-Valdez A, Camacho-Téllez V, Rodríguez-Cruces R, García-Gomar ML, Pasaye Alcaraz EH, Concha L. Functional Correlates of Cognitive Performance and Working Memory in Temporal Lobe Epilepsy: Insights from Task-based and Resting-state fMRI. medRxiv. 2022:2022-08.",
+    "ReferencesAndLinks": [
+        "https://www.medrxiv.org/content/10.1101/2022.08.02.22278343v1",
+        "http://personal.inb.unam.mx/lconcha/"
+    ]
+}
