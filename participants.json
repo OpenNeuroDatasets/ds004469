@@ -82,5 +82,21 @@
   "AMI": {
     "Description": "Auditory memory index",
     "Units": "normalized units"
+  },
+  "cognition_group_comparisons": {
+    "Description": "Included in cognition group comparisons",
+    "Units": "logical"
+  },
+    "rs_analysis_fc_conition": {
+    "Description": "Included analysis of functional connectivity",
+    "Units": "logical"
+  },
+    "task_fmri_vw": {
+    "Description": "Included voxel-wise fmri task",
+    "Units": "logical"
+  },
+    "task.fmri_cognition": {
+    "Description": "Included in correlations between cognition and fmri task",
+    "Units": "logical"
   }
 }
