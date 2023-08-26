@@ -1,0 +1,102 @@
+{
+  "Group": {
+    "Description": "Participant group",
+    "Levels": {
+      "Healthy": "Control",
+      "Patient": "Patient"
+    }
+  },
+  "hasMTS": {
+    "Description": "Mesial temporal sclerosis is present in participant",
+    "Levels": {
+      "0": "yes",
+      "1": "no"
+    }
+  },
+  "TLEside": {
+    "Description": "Side of temporal lobe epilepsy",
+    "Levels": {
+      "Healthy": "n/a",
+      "Left-TLE": "Left TLE",
+      "Right-TLE": "Right TLE",
+      "Unknown-TLE": "Undefined",
+      "Bi-TLE": "Bilateral TLE"
+    }
+  },
+  "age": {
+    "Description": "Participant age",
+    "Units": "years"
+  },
+  "gender": {
+    "Description": "Gender of participant",
+    "Levels": {
+      "F": "female",
+      "M": "male"
+    }
+  },
+  "cogPhenotype": {
+    "Description": "Hermann's-style cognitive phenotype",
+    "Levels": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "3"
+    }
+  },
+  "IQ": {
+    "Description": "Global IQ",
+    "Units": "normalized units"
+  },
+  "VCI": {
+    "Description": "Verbal comprehension index",
+    "Units": "normalized units"
+  },
+  "PR": {
+    "Description": "Perceptual reasoning",
+    "Units": "normalized units"
+  },
+  "PS": {
+    "Description": "Processing speed",
+    "Units": "normalized units"
+  },
+  "WMI": {
+    "Description": "Working memory index",
+    "Units": "normalized units"
+  },
+  "VMI": {
+    "Description": "Visual memory index",
+    "Units": "normalized units"
+  },
+  "VWMI": {
+    "Description": "Visual working memory index",
+    "Units": "normalized units"
+  },
+  "IMI": {
+    "Description": "Immediate memory index",
+    "Units": "normalized units"
+  },
+  "DMI": {
+    "Description": "Delayed memory index",
+    "Units": "normalized units"
+  },
+  "AMI": {
+    "Description": "Auditory memory index",
+    "Units": "normalized units"
+  },
+  "cognition_group_comparisons": {
+    "Description": "Included in cognition group comparisons",
+    "Units": "logical"
+  },
+    "rs_analysis_fc_conition": {
+    "Description": "Included analysis of functional connectivity",
+    "Units": "logical"
+  },
+    "task_fmri_vw": {
+    "Description": "Included voxel-wise fmri task",
+    "Units": "logical"
+  },
+    "task.fmri_cognition": {
+    "Description": "Included in correlations between cognition and fmri task",
+    "Units": "logical"
+  }
+}
