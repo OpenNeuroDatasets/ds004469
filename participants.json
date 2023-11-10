@@ -98,5 +98,21 @@
     "task.fmri_cognition": {
     "Description": "Included in correlations between cognition and fmri task",
     "Units": "logical"
+  },
+    "years.onset": {
+    "Description": "Age at onset of disease",
+    "Units": "years"
+  },
+    "Treatments": {
+    "Description": "Antiseizure medications used (currently and in the recent past)",
+    "Units": "n/a"
+  },
+    "L.hipp Volume": {
+    "Description": "Volume of left hippocampus)",
+    "Units": "Percent of intracranial volume"
+  },
+    "R.hipp Volume": {
+    "Description": "Volume of right hippocampus)",
+    "Units": "Percent of intracranial volume"
   }
 }
